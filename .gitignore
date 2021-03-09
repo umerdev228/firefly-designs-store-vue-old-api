@@ -1,6 +1,5 @@
 /node_modules
 /vendor
-/storage
 /public/storage/
 /public/storage/*
 /storage/*.key
@@ -17,5 +16,7 @@ yarn-error.log
 .phpstorm.meta.php
 _ide_helper.php
 public/uploads/*
-storage
+storage/app
+storage/logs
+storage/upload
 
